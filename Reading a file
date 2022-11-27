@@ -1,0 +1,4 @@
+fin = open(“myFile.txt”)
+
+for line in fin:
+  print(line)
