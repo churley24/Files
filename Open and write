@@ -1,0 +1,6 @@
+fout = open("myStory.txt", "w")
+first_line = "once upon a time...\n"
+
+fout.write(first_line)
+
+fout.close()
