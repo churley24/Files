@@ -1,0 +1,5 @@
+gender = "female"
+age = 23
+height = 5.8
+first_line = "A %d years old, %s student, who is %f tall." %(age, gender,height)
+first_line
